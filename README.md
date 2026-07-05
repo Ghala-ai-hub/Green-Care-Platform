@@ -159,4 +159,5 @@ This project was developed as a cooperative training project to apply artificial
 
 Ghala Bander Alsuna Allah  
 AI Engineer | Artificial Intelligence Graduate
+
 University of Hail

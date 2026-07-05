@@ -158,5 +158,5 @@ This project was developed as a cooperative training project to apply artificial
 # Author
 
 Ghala Bander Alsuna Allah  
-Artificial Intelligence Student  
+AI Engineer | Artificial Intelligence Graduate
 University of Hail

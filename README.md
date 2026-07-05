@@ -12,6 +12,27 @@ The platform allows users to upload a plant image, enter basic health-related in
 
 ---
 
+# Screenshots
+
+## Home and Login Page
+![Home and Login Page](screenshots/home-login.png)
+
+## My Plants Dashboard
+![My Plants Dashboard](screenshots/my-plants-dashboard.png)
+
+## Plant Image Upload
+![Plant Image Upload](screenshots/plant-upload.png)
+
+## Plant Health Assessment
+![Plant Health Assessment](screenshots/health-assessment.png)
+
+## AI-Powered Recommendations
+![AI-Powered Recommendations](screenshots/ai-recommendations.png)
+
+## FastAPI Endpoints
+![FastAPI Endpoints](screenshots/fastapi-endpoints.png)
+
+
 # Repository Note
 
 This repository presents the project overview, features, AI workflow, technologies, and screenshots. The source code may be added later after review and cleanup.
